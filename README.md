@@ -1,4 +1,6 @@
 # cadavre-exquis
 
 
-le soleil briller au loin dans la montagne du fukushima 
+le soleil brille au loin dans la montagne du fukushima 
+je sais qu ej en sais pas
+
