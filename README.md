@@ -2,6 +2,7 @@
 
 
 le soleil brille au loin dans la montagne du fukushima 
+<<<<<<< HEAD
 je sais qu ej en sais pas
 
 Celui qui mange une noix de coco fait confiance à son anus. Comme dirait le grand parrain de tous les temps, la chenille n'a pas besoin de lunette pour boire l'eau. En paralelle et en lien étroit avec la crocodile qui n'attend pas que le gorille accouche.
@@ -24,3 +25,5 @@ while (alive) {
 }
 ```
 ![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
+=======
+>>>>>>> 34577f689aae28fb2d0e81c9b2652b8507543270
