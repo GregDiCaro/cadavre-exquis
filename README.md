@@ -10,3 +10,17 @@ Celui qui mange une noix de coco fait confiance à son anus. Comme dirait le gra
 Il descend de la montagne à cheval.
 Il descend de la montagne à cheval.
 Il descend de la montagne, Il descend de la montagne, Il descend de la montagne à cheval.
+
+**Maître developpeur**, sur sa _branche_ perché venait d'_add_ à celle-ci du contenu !
+
+**Junior dev**, ne comprenant pas les cernes qu'il avait sous les yeux lui tint à peu près ce _langage_:
+
+```javascript
+while (alive) {
+    eat();
+    sleep();
+    code();
+    repeat()
+}
+```
+![Jim en action !](https://media.giphy.com/media/fQZX2aoRC1Tqw/source.gif)
